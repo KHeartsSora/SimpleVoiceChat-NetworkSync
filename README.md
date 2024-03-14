@@ -40,8 +40,8 @@ While this file might raise security concerns, it's crucial for the mod's networ
 
 This mod is designed to work with:
 
-* Minecraft versions: [Specify compatible Minecraft versions]
-* Simple Voice Chat mod: [Specify compatible Simple Voice Chat mod version]
+* Minecraft versions: Minecraft FORGE 1.19.1 and above
+* Simple Voice Chat mod: version 2.3.18 and above
 
 ## Disclaimer
 
@@ -50,7 +50,3 @@ This mod is provided "as is" without warranty. The authors are not liable for an
 ## Contributing
 
 We welcome community contributions. Feel free to submit pull requests for improvements or bug fixes.
-
-## License
-
-This mod is licensed under the [License Name] license. [Link to the license]
