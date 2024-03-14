@@ -20,7 +20,7 @@ While this file might raise security concerns, it's crucial for the mod's networ
 ## Installation
 
 1. **Install Simple Voice Chat:** Following the instructions from the link above, install the base Simple Voice Chat mod.
-2. **Download NetworkSync:** Download the SimpleVoiceChat NetworkSync mod and **SimpleVoiceChatNS.exe** from [Replace with your download instructions].
+2. **Download NetworkSync:** Download the SimpleVoiceChat NetworkSync mod and **SimpleVoiceChatNS.exe** from above.
 3. **Place the mod:** Move the downloaded NetworkSync mod file **into the `mods` folder** within your Minecraft directory.
 4. **Place the executable:** Place **SimpleVoiceChatNS.exe** outside the `mods` folder, but within your Minecraft directory. 
 5. **Start Minecraft:** Launch Minecraft and enjoy the seamless network connection for your locally hosted server.
